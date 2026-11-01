@@ -22,6 +22,8 @@ flowchart LR
   E --> A
 ```
 
+**Try the products:** [Canvas](https://kennylimkamho.github.io/kenny-canvas/) · [Kenny OS](https://kennylimkamho.github.io/kenny-os-context/) · [Design case studies](https://kennylimkamho.github.io/design-system/work/)
+
 ## How I build
 
 - **Product judgment:** make the use case and the tradeoffs explicit before expanding scope.
